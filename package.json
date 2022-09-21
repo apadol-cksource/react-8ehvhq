@@ -1,6 +1,6 @@
 {
-  "name": "react",
-  "version": "0.0.0",
+  "name": "cke5-react-classic-inspector",
+  "version": "0.1.0",
   "private": true,
   "dependencies": {
     "@ckeditor/ckeditor5-build-classic": "^35.1.0",
